@@ -1,0 +1,56 @@
+{
+  "Scores only / Logistic": {
+    "roc_auc": 0.6176525610805552,
+    "accuracy": 0.6128048780487805,
+    "precision_bad_class": 0.6146788990825688,
+    "recall_bad_class": 0.7570621468926554,
+    "threshold": 0.5,
+    "positive_class": "Bad",
+    "n": 656
+  },
+  "Scores only / GBM": {
+    "roc_auc": 0.6528323418266173,
+    "accuracy": 0.6051829268292683,
+    "precision_bad_class": 0.6150121065375302,
+    "recall_bad_class": 0.7175141242937854,
+    "threshold": 0.5,
+    "positive_class": "Bad",
+    "n": 656
+  },
+  "Application only / Logistic": {
+    "roc_auc": 0.6160062857784263,
+    "accuracy": 0.6112804878048781,
+    "precision_bad_class": 0.627906976744186,
+    "recall_bad_class": 0.6864406779661016,
+    "threshold": 0.5,
+    "positive_class": "Bad",
+    "n": 656
+  },
+  "Application only / GBM": {
+    "roc_auc": 0.5688535937441539,
+    "accuracy": 0.5762195121951219,
+    "precision_bad_class": 0.5917874396135265,
+    "recall_bad_class": 0.692090395480226,
+    "threshold": 0.5,
+    "positive_class": "Bad",
+    "n": 656
+  },
+  "All features / Logistic": {
+    "roc_auc": 0.6341620832865641,
+    "accuracy": 0.6051829268292683,
+    "precision_bad_class": 0.6227390180878553,
+    "recall_bad_class": 0.6807909604519774,
+    "threshold": 0.5,
+    "positive_class": "Bad",
+    "n": 656
+  },
+  "All features / GBM": {
+    "roc_auc": 0.6353593744153851,
+    "accuracy": 0.6021341463414634,
+    "precision_bad_class": 0.6171284634760705,
+    "recall_bad_class": 0.692090395480226,
+    "threshold": 0.5,
+    "positive_class": "Bad",
+    "n": 656
+  }
+}
